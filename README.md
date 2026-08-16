@@ -1,5 +1,21 @@
-# BlinkyBoard-L
+**BlinkyBoard-L**
+PCB Card follow the tutorial and little decoration for not expensive components
 
+
+## Overview
+Features:
+- Beautiful
+- Personnalized
+- Works
+- Not expensive
+
+## Hardware
+BOM at the end of file and in REPO
+[Gerber]()
+[Kicad schm]()
+[Kicad pcb]()
+
+Here is the BOM:
 | #  | Composant                       |    Prix (€) |    Prix ($) |
 | -- | ------------------------------- | ----------: | ----------: |
 | 1  | PCB                             |      3,00 € |      3,51 $ |
