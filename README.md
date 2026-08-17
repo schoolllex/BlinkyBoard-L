@@ -11,9 +11,9 @@ Features:
 
 ## Hardware
 BOM at the end of file and in REPO
-[Gerber]()
-[Kicad schm]()
-[Kicad pcb]()
+[Gerber](/555led/)
+[Kicad schm](/555led/)
+[Kicad pcb](/555led/)
 
 Here is the BOM:
 | #  | Composant                       |    Prix (€) |    Prix ($) |
