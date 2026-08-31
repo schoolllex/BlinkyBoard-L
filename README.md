@@ -15,6 +15,21 @@ BOM at the end of file and in REPO
 [Kicad schm](/555led/)
 [Kicad pcb](/555led/)
 
+![image.png](https://cdn.hackclub.com/01a057a1-5059-7d6c-bb2e-d68d6cc9be24/image.png)
+![image.png](https://cdn.hackclub.com/01a057a2-103b-7f8d-ac49-c7f4f244fa7c/image.png)
+
+## Inspo
+
+This project was inspired by a Hack Club tutorial about making a PCB using a 555 timer and a decade counter.
+
+I thought it would be a fun little project to follow the tutorial, while adding my own PCB design and a small personalized decoration.
+
+The goal was to keep the project simple, cheap and fun, while still creating a real PCB that I could manufacture and assemble myself.
+
+The original tutorial did not provide a complete BOM, so I had to find and select the components myself, mainly using AliExpress.
+
+## BOM
+
 Here is the BOM:
 | # | Composant | Prix (€) | Prix ($) | Lien |
 | --- | --- | --- | --- | --- |
