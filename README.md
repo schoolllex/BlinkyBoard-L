@@ -15,6 +15,7 @@ BOM at the end of file and in REPO
 [Kicad schm](/555led/)
 [Kicad pcb](/555led/)
 
+![image.png](https://cdn.hackclub.com/01a0863f-6bea-74ac-9ed8-de508410410e/image.png)
 ![image.png](https://cdn.hackclub.com/01a057a1-5059-7d6c-bb2e-d68d6cc9be24/image.png)
 ![image.png](https://cdn.hackclub.com/01a057a2-103b-7f8d-ac49-c7f4f244fa7c/image.png)
 
